@@ -1,0 +1,3 @@
+Permainan catur adalah olahraga otak yang telah ada selama berabad-abad. Namun, dengan kemajuan teknologi, kita dapat membawa pengalaman bermain catur ke tingkat baru melalui pengembangan aplikasi permainan catur berbasis Java. Aplikasi ini tidak hanya memberikan kesenangan bermain catur, tetapi juga menyajikan kesempatan untuk memahami lebih dalam tentang pemrograman Java.
+
+Proses pengembangan dimulai dengan perencanaan desain permainan catur. Desain ini mencakup tata letak papan catur, bidak-bidaknya, dan aturan permainan. Setelah desain selesai, langkah berikutnya adalah menerapkannya menggunakan bahasa pemrograman Java. Dengan menggunakan konsep pemrograman berorientasi objek, setiap bidak dapat direpresentasikan sebagai objek dengan metode dan perilaku sendiri.
